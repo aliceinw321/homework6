@@ -17,6 +17,7 @@ function playVid() {
 	console.log(volume);
 	//change its text
 	vol_dis.innerHTML = video.volume*100+"%";
+
 }
 
 function pauseVid() { 

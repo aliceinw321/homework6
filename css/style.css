@@ -1,0 +1,10 @@
+.play::before {
+    /*Source: https://css-tricks.com/almanac/properties/c/content/ */
+    content: url('../images/play.png');
+}
+
+.pause::before {
+    /*Source: https://css-tricks.com/almanac/properties/c/content/ */
+    content: url('../images/pause.png');
+}
+
